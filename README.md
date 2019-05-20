@@ -11,4 +11,7 @@ got the trophy, he/she could touch the screen to choose between "car operating" 
 the player could use his/her smart phone to control the RC car using Bluetooth. If continue game is chosen, the player 
 could continue to play the Breakout game.
 
+Demo video available here: https://drive.google.com/drive/folders/1zdvOsqK45562HJxmaR_vAlTUNF1eqh_L?usp=sharing
+
 Have fun!
+
